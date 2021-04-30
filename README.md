@@ -22,7 +22,7 @@ Há 3 anos estou me dedicando também a área de Ciência de Dados, onde cada ve
 <br>Projeto pessoal que utiliza dados da OMS para acompanhamento de curvas de peso e altura do meu filho.
 
 **[Dashboard Glicemia](https://github.com/wvcalbuquerque/dash_glicemia_pbi "Dashboard Glicemia")**
-Dashboard para auxiliar pessoas com diabetes a fazer seu acompanhamento dos níveis de glicemia.
+<br>Dashboard para auxiliar pessoas com diabetes a fazer seu acompanhamento dos níveis de glicemia.
 
 ## Soluções :gear:
 **[Coleta de Dados Imóveis Grande Recife](https://github.com/wvcalbuquerque/coletadados_imoveisgranderecifevendavenda_nodejs "Coleta de Dados Imóveis Grande Recife")**
