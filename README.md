@@ -4,7 +4,7 @@ Sou formado em <a href="https://universo.edu.br/" target="_blank">Sistema de Inf
 
 Trabalho com TI à 16 anos, com experiências nas áreas de testes, desenvolvimento, análise de sistemas, negócio e coordenação. 
 
-Grande parte da minha carreira me dequei ao mundo da medição de software, onde fui durante 10 anos certificado pelo <a href="https://www.ifpug.org/?lang=pt" target="_blank">IFPUG</a> como CFPS - Certified Function Point Specialist.
+Grande parte da minha carreira me dediquei ao mundo da medição de software, onde fui durante 10 anos certificado pelo <a href="https://www.ifpug.org/?lang=pt" target="_blank">IFPUG</a> como CFPS - Certified Function Point Specialist.
 
 Há 3 anos estou me dedicando também a área de Ciência de Dados, onde cada vez mais estou apaixonado pelo fantástico mundo dos dados e os valores que eles podem nos oferecer.
 <br>
