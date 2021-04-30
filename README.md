@@ -30,6 +30,9 @@ Há 3 anos estou me dedicando também a área de Ciência de Dados, onde cada ve
 **[Gerador de ALR's](http://github.com/wvcalbuquerque/programa_geradoralr_java "Gerador de ALR's")**
 <br>Programa que realiza a leitura de um conjunto de tabelas, classificando-as em grupo lógico de dados de acordo com parametrização prévia.
 
+**[Baseline](https://github.com/wvcalbuquerque/programa_baseline_java "Baseline")**
+<br>Programa que realiza merge de várias planilhas em uma única planilha, formando uma baseline.
+
 ## Skills :brain:
 
 <table>
