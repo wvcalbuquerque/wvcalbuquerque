@@ -18,7 +18,8 @@ Há 3 anos estou me dedicando também a área de Ciência de Dados, onde cada ve
 
 
 ## Projetos Pessoais :desktop_computer:
-
+**[Peso e Altura Infantil](https://github.com/wvcalbuquerque/eda_pesoalturainfantil_python "Peso e Altura Infantil")**
+<br>Projeto pessoal que utiliza dados da OMS para acompanhamento de curvas de peso e altura do meu filho.
 
 ## Soluções :gear:
 **[Coleta de Dados Imóveis Grande Recife](https://github.com/wvcalbuquerque/coletadados_imoveisgranderecifevendavenda_nodejs "Coleta de Dados Imóveis Grande Recife")**
