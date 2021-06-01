@@ -15,7 +15,8 @@ Há 3 anos estou me dedicando também a área de Ciência de Dados, onde cada ve
 <a href="https://www.linkedin.com/in/walter-albuquerque-62821022/" target="_blank"><img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" width="40" title="Linkedin" /></a>  <a href="mailto:walter.vieira81@gmail.com" target="_blank"><img src="https://github.com/ismael-araujo/ismael-araujo/blob/main/gmail-icon.png?raw=true" width="40" title="Gmail"/></a>  <a href="https://wa.me/5581988284821" target="_blank"><img src="https://camo.githubusercontent.com/945d32cdd8d51fe844ca8b2976914ae8786586607aee1cba24d7318e24b30411/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f77686174736170702e737667" width="40" title="WhatsApp"/> </a> <br>
 
 ## Projetos :computer:
-
+**[Predição Preço de Imóvel](https://github.com/wvcalbuquerque/eda_apartamentosznrecife_python "Predição Preço de Imóvel")**
+<br>Projeto que explora dados referente a características e predição de preço de imóveis.
 
 ## Projetos Pessoais :desktop_computer:
 **[Peso e Altura Infantil](https://github.com/wvcalbuquerque/eda_pesoalturainfantil_python "Peso e Altura Infantil")**
