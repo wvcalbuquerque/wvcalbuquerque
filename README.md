@@ -1,42 +1,42 @@
-## Olá :wave:
+## Hi :wave:
   <img align="right" alt="GIF" src="https://github.com/wvcalbuquerque/wvcalbuquerque/blob/main/img/570bfa_93eba704821a45119d72f3c091263817_mv2.gif" width="35%" height="35%" /><br>
-Sou formado em <a href="https://universo.edu.br/" target="_blank">Sistema de Informação</a>, pós graduado em <a href="https://pos.unifbv.com.br/" target="_blank">Engenharia de Software</a> e pós graduado em <a href="http://upe.poli.br/" target="_blank">Data Science e Analytics</a>. 
+I graduated in <a href="https://universo.edu.br/" target="_blank">Information system</a>, post graduate in <a href="https://pos.unifbv.com.br/" target="_blank">Software Engineering</a> and post graduate in <a href="http://upe.poli.br/" target="_blank">Data Science e Analytics</a>. 
 
-Trabalho com TI à 16 anos, com experiências nas áreas de testes, desenvolvimento, análise de sistemas, negócio e coordenação. 
+I have been working with IT for 16 years, with experience in the areas of testing, development, systems analysis, business and coordination. 
 
-Grande parte da minha carreira me dediquei ao mundo da medição de software, onde fui durante 10 anos certificado pelo <a href="https://www.ifpug.org/?lang=pt" target="_blank">IFPUG</a> como CFPS - Certified Function Point Specialist.
+Much of my career have been dedicated to the world of software measurement, where was certified by the <a href="https://www.ifpug.org/?lang=pt" target="_blank">IFPUG</a> as a CFPS - Certified Function Point Specialist.
 
-Há 3 anos estou me dedicando também a área de Ciência de Dados, onde cada vez mais estou apaixonado pelo fantástico mundo dos dados e os valores que eles podem nos oferecer.
+For 3 years have also been dedicating myself to the Data Science area, where i'm increasingly passionate about the fantastic world of data and the values they can offer us.
 <br>
 
 ![Walter's GitHub stats](https://github-readme-stats.vercel.app/api?username=wvcalbuquerque&hide=issues&show_icons=true) <br>
 
-## Onde me encontrar :speech_balloon:
+## Where to find me :speech_balloon:
 <a href="https://www.linkedin.com/in/walter-albuquerque-62821022/" target="_blank"><img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" width="40" title="Linkedin" /></a>  <a href="mailto:walter.vieira81@gmail.com" target="_blank"><img src="https://github.com/ismael-araujo/ismael-araujo/blob/main/gmail-icon.png?raw=true" width="40" title="Gmail"/></a>  <a href="https://wa.me/5581988284821" target="_blank"><img src="https://camo.githubusercontent.com/945d32cdd8d51fe844ca8b2976914ae8786586607aee1cba24d7318e24b30411/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f77686174736170702e737667" width="40" title="WhatsApp"/> </a> <br>
 
-## Projetos :computer:
-**[Predição Preço de Imóvel](https://github.com/wvcalbuquerque/eda_apartamentosznrecife_python "Predição Preço de Imóvel")**
-<br>Projeto que explora dados referente a características e predição de preço de imóveis.
+## Projects :computer:
+**[Property Price Prediction](https://github.com/wvcalbuquerque/eda_apartamentosznrecife_python "Predição Preço de Imóvel")**
+<br>Project that explores data related to characteristics and price prediction of properties.
 
-## Projetos Pessoais :desktop_computer:
-**[Peso e Altura Infantil](https://github.com/wvcalbuquerque/eda_pesoalturainfantil_python "Peso e Altura Infantil")**
-<br>Projeto pessoal que utiliza dados da OMS para acompanhamento de curvas de peso e altura do meu filho.
+## Personal projects :desktop_computer:
+**[Child Weight and Height](https://github.com/wvcalbuquerque/eda_pesoalturainfantil_python "Peso e Altura Infantil")**
+<br>Personal project that uses WHO data to monitor my son's weight and height curves.
 
-**[Dashboard Glicemia](https://github.com/wvcalbuquerque/dash_glicemia_pbi "Dashboard Glicemia")**
-<br>Dashboard para auxiliar pessoas com diabetes a fazer seu acompanhamento dos níveis de glicemia.
+**[Blood glucose dashboard](https://github.com/wvcalbuquerque/dash_glicemia_pbi "Dashboard Glicemia")**
+<br>Dashboard to help people with diabetes to monitor their blood glucose levels.
 
-## Soluções :gear:
-**[Coleta de Dados Imóveis Grande Recife](https://github.com/wvcalbuquerque/coletadados_imoveisgranderecifevendavenda_nodejs "Coleta de Dados Imóveis Grande Recife")**
-<br>Realiza técnica de webscraping para captura de dados de vendas de imóveis em Pernambuco em um site de anúncios.
+## Solutions :gear:
+**[Data Collection Greater Recife](https://github.com/wvcalbuquerque/coletadados_imoveisgranderecifevendavenda_nodejs "Coleta de Dados Imóveis Grande Recife")**
+<br>Performs webscraping technique to capture data from real estate sales in Recife on an advertisement site.
 
-**[ETL Imóveis Grande Recife](https://github.com/wvcalbuquerque/etl_imoveisgranderecifevendavenda_nodejs "ETL Imóveis Grande Recife")**
-<br>ETL para organização dos dados capturados de vendas de imóveis em Pernambuco em um site de anúncios.
+**[ETL Real Estate Greater Recife](https://github.com/wvcalbuquerque/etl_imoveisgranderecifevendavenda_nodejs "ETL Imóveis Grande Recife")**
+<br>ETL for organizing the data captured from real estate sales in Pernambuco in an advertisement site.
 
-**[Gerador de ALR's](http://github.com/wvcalbuquerque/programa_geradoralr_java "Gerador de ALR's")**
-<br>Programa que realiza a leitura de um conjunto de tabelas, classificando-as em grupo lógico de dados de acordo com parametrização prévia.
+**[ALR's Generator](http://github.com/wvcalbuquerque/programa_geradoralr_java "Gerador de ALR's")**
+<br>Program that reads a set of tables, classifying them into a logical group of data according to previous parameterization.
 
 **[Baseline](https://github.com/wvcalbuquerque/programa_baseline_java "Baseline")**
-<br>Programa que realiza merge de várias planilhas em uma única planilha, formando uma baseline.
+<br>Program that merges several sheets into a single sheet, forming a baseline.
 
 ## Skills :brain:
 
