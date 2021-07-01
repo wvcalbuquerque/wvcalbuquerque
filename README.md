@@ -22,6 +22,7 @@ For 3 years have also been dedicating myself to the Data Science area, where i'm
 **[Child Weight and Height](https://github.com/wvcalbuquerque/eda_pesoalturainfantil_python "Peso e Altura Infantil")**
 <br>Personal project that uses WHO data to monitor my son's weight and height curves.
 
+## Dashboard's 📊:
 **[Blood glucose dashboard](https://github.com/wvcalbuquerque/dash_glicemia_pbi "Dashboard Glicemia")**
 <br>Dashboard to help people with diabetes to monitor their blood glucose levels.
 
